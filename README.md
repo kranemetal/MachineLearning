@@ -8,3 +8,4 @@ This repository contains notebooks to study and prepare various concepts of Mach
 [4. Polynomial Regression](https://github.com/kranemetal/MachineLearning/blob/main/4.%20Polynomial%20Regression.ipynb) <br>
 [5. Support Vector Machine(SVM) Regression](https://github.com/kranemetal/MachineLearning/blob/main/5.%20SVM%20Regression.ipynb) <br>
 [6. Decision Trees Regression](https://github.com/kranemetal/MachineLearning/blob/main/6.%20Decision%20Trees%20Regression.ipynb) <br>
+[7. Random Forest Regression](https://github.com/kranemetal/MachineLearning/blob/main/7.%20Random%20Forest%20Regression.ipynb) <br>
