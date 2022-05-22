@@ -12,3 +12,4 @@ This repository contains notebooks to study and prepare various concepts of Mach
 [8. Logistic Regression Classification](https://github.com/kranemetal/MachineLearning/blob/main/08.%20Logistic%20Regression%20Classification.ipynb) <br>
 [9. K-NearestNeighbor(K-NN) Classification](https://github.com/kranemetal/MachineLearning/blob/main/09.%20K-Nearest%20Neighbor(K-NN).ipynb) <br>
 [10. Support Vector Machine(SVM) Classification](https://github.com/kranemetal/MachineLearning/blob/main/10.%20Support%20Vector%20Machine(SVM)%20Classification.ipynb) <br>
+[11. Kernel SVM Classification](https://github.com/kranemetal/MachineLearning/blob/main/11.%20Kernel%20SVM%20Classification.ipynb)<br>
