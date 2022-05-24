@@ -14,3 +14,4 @@ This repository contains notebooks to study and prepare various concepts of Mach
 [10. Support Vector Machine(SVM) Classification](https://github.com/kranemetal/MachineLearning/blob/main/10.%20Support%20Vector%20Machine(SVM)%20Classification.ipynb) <br>
 [11. Kernel SVM Classification](https://github.com/kranemetal/MachineLearning/blob/main/11.%20Kernel%20SVM%20Classification.ipynb)<br>
 [12. Naive Bayes Classification](https://github.com/kranemetal/MachineLearning/blob/main/12.%20Naive%20Bayes%20Classification.ipynb)<br>
+[13. Decision Tree Classification](https://github.com/kranemetal/MachineLearning/blob/main/13.%20Decision%20Tree%20Classification.ipynb) <br>
