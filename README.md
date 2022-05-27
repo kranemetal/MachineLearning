@@ -16,3 +16,4 @@ This repository contains notebooks to study and prepare various concepts of Mach
 [12. Naive Bayes Classification](https://github.com/kranemetal/MachineLearning/blob/main/12.%20Naive%20Bayes%20Classification.ipynb)<br>
 [13. Decision Tree Classification](https://github.com/kranemetal/MachineLearning/blob/main/13.%20Decision%20Tree%20Classification.ipynb) <br>
 [14. Random Forest Classification](https://github.com/kranemetal/MachineLearning/blob/main/14.%20Random%20Forest%20Classification.ipynb)<br>
+[15. Metrics for evaluation in Machine Learning](https://github.com/kranemetal/MachineLearning/blob/main/15.%20Metrics%20for%20Evaluation.ipynb)<br>
