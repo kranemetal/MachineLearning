@@ -18,3 +18,4 @@ This repository contains notebooks to study and prepare various concepts of Mach
 [14. Random Forest Classification](https://github.com/kranemetal/MachineLearning/blob/main/14.%20Random%20Forest%20Classification.ipynb)<br>
 [15. Metrics for evaluation in Machine Learning](https://github.com/kranemetal/MachineLearning/blob/main/15.%20Metrics%20for%20Evaluation.ipynb)<br>
 [16. K-fold Cross Validation](https://github.com/kranemetal/MachineLearning/blob/main/16.%20K-fold%20Cross%20Validation.ipynb)<br>
+[17. GridSearchCV](https://github.com/kranemetal/MachineLearning/blob/main/17.%20GridSeachCV.ipynb)<br>
